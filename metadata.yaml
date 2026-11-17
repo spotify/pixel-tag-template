@@ -2,5 +2,7 @@ homepage: "https://ads.spotify.com/"
 documentation: "https://github.com/spotify/pixel-tag-template#readme"
 versions:
   # Latest version
+  - sha: 733ab3cf78bc77b26b188cf5042a675e6c5b496d
+    changeNotes: "Mark the template as beta."
   - sha: 4133c741e9c30735adeb828d462409970178cf4a
     changeNotes: "Initial release."
